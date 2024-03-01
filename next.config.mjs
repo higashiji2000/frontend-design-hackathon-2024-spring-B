@@ -3,5 +3,6 @@ const nextConfig = {
   pageExtensions: ["jsx", "js"],
   output: "export",
   basePath: "",
+  distDir: "out",
 };
 export default nextConfig;
