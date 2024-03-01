@@ -2,5 +2,6 @@
 const nextConfig = {
   pageExtensions: ["jsx", "js"],
   output: "export",
+  basePath: "",
 };
 export default nextConfig;
