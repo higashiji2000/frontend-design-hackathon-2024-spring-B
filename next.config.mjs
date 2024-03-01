@@ -2,6 +2,6 @@
 const nextConfig = {
   pageExtensions: ["jsx", "js"],
   output: "export",
-  basePath: "/frontend-design-hackathon-2024-spring-B",
+  basePath: "",
 };
 export default nextConfig;
